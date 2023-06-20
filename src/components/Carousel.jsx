@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BsArrowLeftSquareFill, BsArrowRightSquareFill } from 'react-icons/bs';
-import {Transition} from 'react-transition-group';
+
 
 const sliderData = [
   {
